@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Free",
+      "price": 0,
+      "currency": "USD",
+      "billingCycle": "month",
+      "features": [
+        "1 project",
+        "Basic support",
+        "100MB storage"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 2,
+      "name": "Starter",
+      "price": 9,
+      "currency": "USD",
+      "billingCycle": "month",
+      "features": [
+        "5 projects",
+        "Email support",
+        "1GB storage"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 3,
+      "name": "Pro",
+      "price": 29,
+      "currency": "USD",
+      "billingCycle": "month",
+      "features": [
+        "Unlimited projects",
+        "Priority support",
+        "10GB storage",
+        "Advanced analytics"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 4,
+      "name": "Enterprise",
+      "price": 99,
+      "currency": "USD",
+      "billingCycle": "month",
+      "features": [
+        "Custom projects",
+        "Dedicated manager",
+        "Unlimited storage",
+        "24/7 support",
+        "Team collaboration tools"
+      ],
+      "recommended": false
+    }
+  ]
+  
